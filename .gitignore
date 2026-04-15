@@ -1,1 +1,12 @@
+# Environment files
 .env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated results
+results_*.json
+*_output.json
+*_output.html
